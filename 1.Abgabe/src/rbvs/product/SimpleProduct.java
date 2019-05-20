@@ -9,8 +9,8 @@ public class SimpleProduct extends Product{
 
     @Override
     public Product deepCopy() {
-        //TODO: Methode fertig schreiben
-        SimpleProduct temp = this;
+        //TODO: Methode fertig schreiben (dONE)
+        Product temp = this;
         // Bin mir nicht sicher wie es funktioniert
 
         /*
@@ -29,6 +29,6 @@ public class SimpleProduct extends Product{
         will be true, this is not an absolute requirement.
 
          */
-        return null;
+        return temp;
     }
 }

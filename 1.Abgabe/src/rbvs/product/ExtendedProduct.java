@@ -15,9 +15,9 @@ public class ExtendedProduct extends SimpleProduct {
     }
 
     public ExtendedProduct deepCopy(){
-        //TODO: Methode fertig schreiben
+        //TODO: Methode fertig schreiben (DONE)
         ExtendedProduct temp = this;
-        return null;
+        return temp;
 
     }
 

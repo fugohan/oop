@@ -1,9 +1,11 @@
 package rbvs.product;
 
+import java.awt.image.AreaAveragingScaleFilter;
+import java.util.ArrayList;
 import java.util.Collection;
 
 public class CompositeProduct extends Product {
-    private Collection<Product> containedProducts;
+    private Collection<Product> containedProducts = new ArrayList<>();
     private float discount;
 
     CompositeProduct(String name, float discountPercentage){
@@ -24,10 +26,19 @@ public class CompositeProduct extends Product {
     }
     @Override
     public CompositeProduct deepCopy() {
-        return null;
+        Collection<Product> mimo= new ArrayList<>();
+        for(Product i:this.getProducts()){
+            mimo.add(i.deepCopy());
+        }
+        CompositeProduct temp = new CompositeProduct(this.getName(),this.discount,mimo);
+        return temp;
     }
     public float getPrice(){
-    return super.getPrice();
+        float all=0;
+        for(Product i:this.getProducts()){
+            all+=i.getPrice();
+        }
+        return all;
     }
 
     public Collection<Product> getProducts(){
