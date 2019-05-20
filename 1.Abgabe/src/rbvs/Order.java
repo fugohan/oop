@@ -29,6 +29,7 @@ public class Order extends Record implements IDeepCopy {
     }
     public boolean setState(OrderState newStatus){
         this.currentState = newStatus;
+        return true;
     }
     public OrderState getState(){
         return this.currentState;

@@ -2,9 +2,7 @@ package rbvs.product;
 
 public class SimpleProduct extends Product{
     public SimpleProduct(String name, float price){
-        super();
-        super.setName(name);
-        super.setPrice(price);
+        super(name,price);
     }
 
     @Override

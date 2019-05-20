@@ -8,12 +8,12 @@ public class CompositeProduct extends Product {
     private Collection<Product> containedProducts = new ArrayList<>();
     private float discount;
 
-    CompositeProduct(String name, float discountPercentage){
+    public CompositeProduct(String name, float discountPercentage){
         super(name);
         this.discount = discountPercentage;
     }
 
-    CompositeProduct(String name, float
+    public CompositeProduct(String name, float
                       discountPercentage, Collection<Product> products){
         super(name);
         this.discount = discountPercentage;
