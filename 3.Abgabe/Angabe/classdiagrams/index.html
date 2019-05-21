@@ -1,0 +1,57 @@
+<html>
+<head>
+  <style>
+    body {
+      background-color: #174260;
+    }
+    a {
+      color: white;
+      text-decoration:none;
+      margin-left:45%;
+    }
+	img {
+    margin-left: -40%;
+	}
+    h1,h3{
+      color:white;
+       text-align: center;
+    }
+    
+    span {
+      position: relative;
+      z-index: 1;
+      
+    }
+
+    span::before {
+      content: '';
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      bottom: 0;
+      left: -0.25em;
+      right: -0.25em;
+      background-color: hsla(341, 97%, 59%, 0.75);
+      transform-origin: center right;
+      transform: scaleX(0);
+      transition: transform 0.2s ease-in-out;
+    }
+
+    span:hover::before {
+      transform: scaleX(1);
+      transform-origin: center left;
+    }
+    </style>
+  </head>
+<body>
+  
+  <h1>Objekt Orientiertes Programmieren SS2019</h1>
+  <h3>3.Abgabe</h3>
+	<a href="product_classdiagram.png"><img src="product_classdiagram.png"/></a><br/><a href="paymentprovider_classdiagram.png"><img src="paymentprovider_classdiagram.png"/></a><br/><a href="container_classdiagram.png"><img src="container_classdiagram.png"/></a><br/><a href="warehouse_ui_classdiagram.png"><img src="warehouse_ui_classdiagram.png"/></a><br/><a href="record_classdiagram.png"><img src="record_classdiagram.png"/></a><br/><a href="ContainerAll.png"><img src="ContainerAll.png"/></a><br/><a href="cashRegister_UI_classdiagram.png"><img src="cashRegister_UI_classdiagram.png"/></a><br/><a href="managementtools.png"><img src="managementtools.png"/></a><br/><a href="util_searchable_classdiagram.png"><img src="util_searchable_classdiagram.png"/></a><br/><a href="util_classdiagram.png"><img src="util_classdiagram.png"/></a><br/><a href="tree_classdiagram.png"><img src="tree_classdiagram.png"/></a><br/><a href="managementserver_classdiagram.png"><img src="managementserver_classdiagram.png"/></a><br/><a href="warehouse_classdiagram.png"><img src="warehouse_classdiagram.png"/></a><br/><a href="product_diagram.png"><img src="product_diagram.png"/></a><br/><a href="overview_classdiagram.png"><img src="overview_classdiagram.png"/></a><br/><a href="cashRegister_classdiagram.png"><img src="cashRegister_classdiagram.png"/></a><br/>
+  
+  
+  
+ 
+  <span><a href="http://oop.onlinetu.tk">Zurück</a></span>
+
+</body></html>

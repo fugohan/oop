@@ -1,8 +1,7 @@
 package rbvs;
-import rbvs.product.CompositeProduct;
-import rbvs.product.IProduct;
-import rbvs.product.Product;
-import rbvs.product.SimpleProduct;
+import rbvs.product.*;
+import sun.java2d.pipe.SpanShapeRenderer;
+import sun.plugin.perf.PluginRollup;
 
 import java.awt.color.ICC_ProfileRGB;
 import java.util.ArrayList;
@@ -176,5 +175,43 @@ public class Restaurant extends Object {
         Restaurant one = new Restaurant("One");
         System.out.println(one.toString());
         System.out.print(generateSimpleProducts());
+
+        SimpleProduct ham0 = new SimpleProduct("Hamburger", 4);
+        SimpleProduct ham1 = new SimpleProduct("Cheeseburger", 4.1f);
+        SimpleProduct ham2 = new SimpleProduct("Big Burger", 5);
+        SimpleProduct ham3 = new SimpleProduct("Chilliburger", 7);
+        SimpleProduct ham4 = new SimpleProduct("Sweetburger", 6.9f);
+
+        ExtendedProduct tga = new ExtendedProduct("Trinkgeld Anna", 2);
+        ExtendedProduct tgb = new ExtendedProduct("Trinkgeld Bettina", 2);
+        ExtendedProduct tgc = new ExtendedProduct("Trinkgeld Chris", 2);
+        ExtendedProduct tgd = new ExtendedProduct("Trinkgeld Daniel", 2);
+        ExtendedProduct tgf = new ExtendedProduct("Trinkgeld Fiona", 2);
+
+        CompositeProduct water = new CompositeProduct("Leitungswasser", 100);
+        CompositeProduct soda = new CompositeProduct("Soda", 1);
+
+        List<Product> diezwan = new ArrayList<>();
+        diezwan.add(ham1);
+        diezwan.add(ham0);
+        CompositeProduct dis20 = new CompositeProduct("MitSparwoch", 20, diezwan);
+        CompositeProduct dis10 = new CompositeProduct("DoSparTag", 10, diezwan);
+        List<Product> disday = new ArrayList<>();
+        disday.add(dis10);
+        disday.add(dis20);
+        CompositeProduct dis = new CompositeProduct("Spartage", 5,disday);
+
+        Table eins = new Table("1",2);
+        Table zwei = new Table("2",4);
+        Table drei = new Table("3",8);
+
+
+
+
+
+
+
+
+
     }
 }
