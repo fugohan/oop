@@ -1,7 +1,6 @@
 import java.util.Collection;
 import java.util.Iterator;
 
-import container.Container;
 import container.ContainerElement;
 import container.IContainerElement;
 import container.Itr;
@@ -238,7 +237,7 @@ public class TestBsp2 {
 
 		CompositeProduct jp = new CompositeProduct("Menue 1", 10);
 
-		jp.addProduct(new SimpleProduct("Jugendgetränk", 2.0f));
+		jp.addProduct(new SimpleProduct("Jugendgetrï¿½nk", 2.0f));
 		jp.addProduct(new SimpleProduct("Pizza nach Wahl", 8.0f));
 		jp.addProduct(new SimpleProduct("Nachspeise", 4.0f));
 

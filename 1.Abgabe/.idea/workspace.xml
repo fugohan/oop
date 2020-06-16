@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f02d83-7112-49f6-ab27-4344983de80c" name="Default Changelist" comment="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe&#10;Upload 3.Abgabe Angabe">
+      <change afterPath="$PROJECT_DIR$/../2.Abgabe/src/container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.Abgabe/src/tree/GenericTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.Abgabe/src/tree/ITree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.Abgabe/src/tree/ProductTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/einführungsbeispiel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/Capacitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/CircuitPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/HardwareComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/PCB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/out/production/einführungsbeispiel/Resistor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/CircuitPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/PCB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/Resistor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/out/production/testproject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testproject/testproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../einführungsbeispiel/src/Capacitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/Capacitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../einführungsbeispiel/src/HardwareComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../einführungsbeispiel/src/HardwareComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testproject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testproject/.idea/compiler.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rbvs/product/CompositeProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/rbvs/Restaurant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="207" selection-start-line="207" selection-end-line="207" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="F:\TU WIEN\GitPortable\App\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SimpleProduct.java" />
+        <option value="$PROJECT_DIR$/src/ict/basics/I.java" />
+        <option value="$PROJECT_DIR$/src/ict/basics/IDeepCopy.java" />
+        <option value="$PROJECT_DIR$/src/Product.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/product/IProduct.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/product/Product.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/record/IRecord.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/record/Record.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/Table.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/DuplicateProductException.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/OrderState.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/product/ExtendedProduct.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/Order.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/product/SimpleProduct.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/product/CompositeProduct.java" />
+        <option value="$PROJECT_DIR$/src/rbvs/Restaurant.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1390" />
+    <option name="height" value="1756" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="rbvs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rbvs.Restaurant" />
+      <module name="1.Abgabe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rbvs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Restaurant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f02d83-7112-49f6-ab27-4344983de80c" name="Default Changelist" comment="" />
+      <created>1557995519013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557995519013</updated>
+    </task>
+    <task id="LOCAL-00001" summary="create ict.basics&#10;create rbvs&#10;       - product&#10;       - record &#10;Upload Angabe&#10;TODO: &#10;- DeepCopy">
+      <created>1558002831795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558002831796</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create Restaurant &#10;TODO: &#10;- finish Restaurant &#10;&#10;Finish: &#10;- Deepcopy (by Marcus)&#10;- Order&#10;- OrderState&#10;- Table">
+      <created>1558342511052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558342511052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe">
+      <created>1558357020714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558357020714</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe&#10;Upload 3.Abgabe Angabe">
+      <created>1558425933968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558425933968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe&#10;Upload 3.Abgabe Angabe">
+      <created>1558426302046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558426302046</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17838247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988662" weight="0.32980132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49584278" weight="0.3258278" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49659863" weight="0.32847682" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49659863" weight="0.32847682" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011338" side_tool="true" visible="true" weight="0.3245033" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create ict.basics&#10;create rbvs&#10;       - product&#10;       - record &#10;TODO: &#10;- DeepCopy" />
+    <MESSAGE value="create ict.basics&#10;create rbvs&#10;       - product&#10;       - record &#10;Upload Angabe&#10;TODO: &#10;- DeepCopy" />
+    <MESSAGE value="create Restaurant &#10;TODO: &#10;- finish Restaurant &#10;&#10;Finish: &#10;- Deepcopy (by Marcus)&#10;- Order&#10;- OrderState&#10;- Table" />
+    <MESSAGE value="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz" />
+    <MESSAGE value="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe" />
+    <MESSAGE value="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe&#10;Upload 3.Abgabe Angabe" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files done &#10;TODO: &#10;- CompositeProduct&#10;&#10;Check somebody plz&#10;&#10;&#10;Upload 2.Abgabe Angabe&#10;Upload 3.Abgabe Angabe" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SimpleProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/ict/basics/I.java" />
+    <entry file="file://$PROJECT_DIR$/src/ict/basics/IDeepCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/product/IProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/record/Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/record/IRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Programme/JDK64/jre/lib/rt.jar!/java/lang/Throwable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/OrderState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/product/ExtendedProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/DuplicateProductException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/product/SimpleProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="83" selection-start-line="37" selection-start-column="83" selection-end-line="37" selection-end-column="83" />
+          <folding>
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/product/CompositeProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rbvs/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1.Abgabe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,36 +1,27 @@
 package tree;
 
+import tree.node.ITreeNode;
 
-import rbvs.product.IProduct;
+public class GenericTree<TREETYPE> extends Object implements ITree<TREETYPE> {
 
-public class GenericTree extends Object implements ITree<TREETYPE> {
+    // ALL TREETYPES MUST BE GENERICTREES!
+    ITreeNode<TREETYPE> root;
 
-    protected ITreeNode<NODETYPE> root;
-    public GenericTree(){
+    GenericTree(){
         this.root = null;
     }
-    public GenericTree(ITreeNode<TREETYPE> root){
 
-        this.root = root;
-
-    }
-
-
-    public void setRoot (ITreeNode<TREETYPE> root){
+    GenericTree(ITreeNode<TREETYPE> root){
         this.root = root;
     }
 
+    public void setRoot(ITreeNode<TREETYPE> root){
+        this.root = root;
+    }
     public ITreeNode<TREETYPE> getRoot(){
         return this.root;
     }
+    public ITreeNode<TREETYPE> findNode(TREETYPE searchValue){
 
-    //TODO:findNode
-    //TODO:findNode
-    //TODO:generateConsoleView
-/* public String generateConsoleView(String spacer){
-        String out = "";
-        out += spacer
-    }*/
-    //TODO:searchByFilter
-    //TODO:deepCopy
+    }
 }

@@ -1,19 +1,19 @@
 public abstract class HardwareComponent {
     private String id;
-    Float price;
+    private float price;
 
 
-    public HardwareComponent(String id, Float price) {
+    public HardwareComponent(String id, float price) {
         this.id = id;
         this.price = price;
     }
 
-    public HardwareComponent() {
+    public float getPrice(){
 
+        return this.price;
     }
 
-    public Float getPrice(){
-
-        return price;
+    public String getId() {
+        return id;
     }
 }
